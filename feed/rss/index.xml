@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Weiterleiten&#160;&hellip;</title>
+		<meta http-equiv="refresh" content="0;url=/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/feed/";
+		</script>
+
+		<p>Du wirst auf <a href="/feed/">/feed/</a> weitergeleitet</p>
+	</body>
+</html>
