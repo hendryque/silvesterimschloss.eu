@@ -1,0 +1,492 @@
+2018-06-18 07:06:09 POST EXPORT CLEANUP: complete
+2018-06-18 07:06:09 POST EXPORT CLEANUP: starting...
+2018-06-18 07:06:08 ZIP CREATED: Download at https://www.silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk.zip
+2018-06-18 07:06:07 CREATING ZIP FILE...
+2018-06-18 07:06:06 POST PROCESSING ARCHIVE DIR: ...
+2018-06-18 07:06:05 CRAWLING SITE: 0 files remaining
+2018-06-18 07:06:05 SAVING URL: /wp-content/uploads/imagerotator.swf to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/imagerotator.swf
+2018-06-18 07:06:05 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/imagerotator.swf
+2018-06-18 07:06:05 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/uploads/imagerotator.swf
+2018-06-18 07:06:04 CRAWLING SITE: 1 files remaining
+2018-06-18 07:06:04 SAVING URL: /wp-content/uploads/eintragen_on.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/eintragen_on.png
+2018-06-18 07:06:04 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/eintragen_on.png
+2018-06-18 07:06:04 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/uploads/eintragen_on.png
+2018-06-18 07:06:01 CRAWLING SITE: 2 files remaining
+2018-06-18 07:06:01 SAVING URL: /wp-content/uploads/apunk.mp3 to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/apunk.mp3
+2018-06-18 07:06:01 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/apunk.mp3
+2018-06-18 07:06:01 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/uploads/apunk.mp3
+2018-06-18 07:06:00 CRAWLING SITE: 3 files remaining
+2018-06-18 07:06:00 SAVING URL: /wp-content/uploads/eintragen_off.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/eintragen_off.png
+2018-06-18 07:06:00 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/eintragen_off.png
+2018-06-18 07:06:00 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/uploads/eintragen_off.png
+2018-06-18 07:05:59 CRAWLING SITE: 4 files remaining
+2018-06-18 07:05:59 SAVING URL: UNABLE TO SAVE FOR SOME REASON
+2018-06-18 07:05:59 SAVING URL:  to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/index.html
+2018-06-18 07:05:59 FAILED TO CRAWL FILE: 
+2018-06-18 07:05:59 EMPTY FILE ENCOUNTERED
+2018-06-18 07:05:59 CRAWLING URL: 
+2018-06-18 07:05:59 CRAWLING SITE: 5 files remaining
+2018-06-18 07:05:59 SAVING URL: /2015/01/24/lichtbilder-zum-feste-nachtrag/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/24/lichtbilder-zum-feste-nachtrag/index.html
+2018-06-18 07:05:59 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/24/lichtbilder-zum-feste-nachtrag/
+2018-06-18 07:05:57 CRAWLING URL: https://www.silvesterimschloss.eu/2015/01/24/lichtbilder-zum-feste-nachtrag/
+2018-06-18 07:05:56 CRAWLING SITE: 6 files remaining
+2018-06-18 07:05:56 SAVING URL: /2015/01/22/lichtbilder-vom-feste/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/22/lichtbilder-vom-feste/index.html
+2018-06-18 07:05:56 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/22/lichtbilder-vom-feste/
+2018-06-18 07:05:55 CRAWLING URL: https://www.silvesterimschloss.eu/2015/01/22/lichtbilder-vom-feste/
+2018-06-18 07:05:54 CRAWLING SITE: 7 files remaining
+2018-06-18 07:05:54 SAVING URL: /2015/01/18/hobbybrotbaeckerei-nachtrag/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/18/hobbybrotbaeckerei-nachtrag/index.html
+2018-06-18 07:05:54 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/18/hobbybrotbaeckerei-nachtrag/
+2018-06-18 07:05:53 CRAWLING URL: https://www.silvesterimschloss.eu/2015/01/18/hobbybrotbaeckerei-nachtrag/
+2018-06-18 07:05:52 CRAWLING SITE: 8 files remaining
+2018-06-18 07:05:52 SAVING URL: /2014/12/26/kultur-am-hofe-das-programm/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/26/kultur-am-hofe-das-programm/index.html
+2018-06-18 07:05:52 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/26/kultur-am-hofe-das-programm/
+2018-06-18 07:05:50 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/26/kultur-am-hofe-das-programm/
+2018-06-18 07:05:50 CRAWLING SITE: 9 files remaining
+2018-06-18 07:05:50 SAVING URL: /2014/12/23/infos-zur-letzten-minute/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/23/infos-zur-letzten-minute/index.html
+2018-06-18 07:05:50 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/23/infos-zur-letzten-minute/
+2018-06-18 07:05:49 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/23/infos-zur-letzten-minute/
+2018-06-18 07:05:48 CRAWLING SITE: 10 files remaining
+2018-06-18 07:05:48 SAVING URL: /2014/12/23/persoenliche-mit-bringliste-fuers-schloss/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/23/persoenliche-mit-bringliste-fuers-schloss/index.html
+2018-06-18 07:05:48 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/23/persoenliche-mit-bringliste-fuers-schloss/
+2018-06-18 07:05:47 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/23/persoenliche-mit-bringliste-fuers-schloss/
+2018-06-18 07:05:46 CRAWLING SITE: 11 files remaining
+2018-06-18 07:05:46 SAVING URL: /2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/index.html
+2018-06-18 07:05:46 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/
+2018-06-18 07:05:44 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/
+2018-06-18 07:05:44 CRAWLING SITE: 12 files remaining
+2018-06-18 07:05:44 SAVING URL: /2014/12/20/lichtbildarena-indien/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/20/lichtbildarena-indien/index.html
+2018-06-18 07:05:44 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/20/lichtbildarena-indien/
+2018-06-18 07:05:42 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/20/lichtbildarena-indien/
+2018-06-18 07:05:42 CRAWLING SITE: 13 files remaining
+2018-06-18 07:05:42 SAVING URL: /2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/index.html
+2018-06-18 07:05:42 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/
+2018-06-18 07:05:41 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/
+2018-06-18 07:05:40 CRAWLING SITE: 14 files remaining
+2018-06-18 07:05:40 SAVING URL: /2014/12/19/kuechenwalzer/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/19/kuechenwalzer/index.html
+2018-06-18 07:05:40 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/19/kuechenwalzer/
+2018-06-18 07:05:39 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/19/kuechenwalzer/
+2018-06-18 07:05:38 CRAWLING SITE: 15 files remaining
+2018-06-18 07:05:38 SAVING URL: /wp-content/uploads/2014/12/rock-430x430.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/rock-430x430.jpg
+2018-06-18 07:05:38 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock-430x430.jpg
+2018-06-18 07:05:38 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock-430x430.jpg
+2018-06-18 07:05:38 SAVING URL: /wp-content/uploads/2014/12/rock-150x150.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/rock-150x150.jpg
+2018-06-18 07:05:38 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock-150x150.jpg
+2018-06-18 07:05:38 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock-150x150.jpg
+2018-06-18 07:05:38 SAVING URL: /wp-content/uploads/2014/12/rock-400x400.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/rock-400x400.jpg
+2018-06-18 07:05:38 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock-400x400.jpg
+2018-06-18 07:05:37 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock-400x400.jpg
+2018-06-18 07:05:37 SAVING URL: /wp-content/uploads/2014/12/rock.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/rock.jpg
+2018-06-18 07:05:37 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock.jpg
+2018-06-18 07:05:37 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rock.jpg
+2018-06-18 07:05:37 SAVING URL: /2014/12/18/maedels-aufgepasst-klamotte-fuer-silvester/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/18/maedels-aufgepasst-klamotte-fuer-silvester/index.html
+2018-06-18 07:05:37 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/18/maedels-aufgepasst-klamotte-fuer-silvester/
+2018-06-18 07:05:36 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/18/maedels-aufgepasst-klamotte-fuer-silvester/
+2018-06-18 07:05:30 CRAWLING SITE: 16 files remaining
+2018-06-18 07:05:30 SAVING URL: /2014/12/17/der-endspurt-der-finanzmufti-spricht/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/17/der-endspurt-der-finanzmufti-spricht/index.html
+2018-06-18 07:05:30 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/17/der-endspurt-der-finanzmufti-spricht/
+2018-06-18 07:05:29 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/17/der-endspurt-der-finanzmufti-spricht/
+2018-06-18 07:05:28 CRAWLING SITE: 17 files remaining
+2018-06-18 07:05:28 SAVING URL: /wp-content/plugins/wp-polls/images/loading.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/plugins/wp-polls/images/loading.gif
+2018-06-18 07:05:28 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-polls/images/loading.gif
+2018-06-18 07:05:28 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-polls/images/loading.gif
+2018-06-18 07:05:28 SAVING URL: /wp-content/uploads/2014/12/cupcakebully1-150x150.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/cupcakebully1-150x150.png
+2018-06-18 07:05:28 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cupcakebully1-150x150.png
+2018-06-18 07:05:27 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cupcakebully1-150x150.png
+2018-06-18 07:05:27 SAVING URL: /wp-content/uploads/2014/12/cupcakebully1.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/cupcakebully1.png
+2018-06-18 07:05:27 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cupcakebully1.png
+2018-06-18 07:05:27 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cupcakebully1.png
+2018-06-18 07:05:27 SAVING URL: /2014/12/15/turne-an-die-urne-reloaded-unser-futter/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/15/turne-an-die-urne-reloaded-unser-futter/index.html
+2018-06-18 07:05:27 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/15/turne-an-die-urne-reloaded-unser-futter/
+2018-06-18 07:05:26 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/15/turne-an-die-urne-reloaded-unser-futter/
+2018-06-18 07:05:22 CRAWLING SITE: 18 files remaining
+2018-06-18 07:05:22 SAVING URL: /wp-content/uploads/2014/12/bild-430x285.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/bild-430x285.jpg
+2018-06-18 07:05:22 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/bild-430x285.jpg
+2018-06-18 07:05:22 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/bild-430x285.jpg
+2018-06-18 07:05:22 SAVING URL: /wp-content/uploads/2014/12/bild.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/bild.jpg
+2018-06-18 07:05:22 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/bild.jpg
+2018-06-18 07:05:22 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/bild.jpg
+2018-06-18 07:05:22 SAVING URL: /2014/12/15/ausflug-stralsund-ozeaneummeereskundemuseum/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/15/ausflug-stralsund-ozeaneummeereskundemuseum/index.html
+2018-06-18 07:05:22 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/15/ausflug-stralsund-ozeaneummeereskundemuseum/
+2018-06-18 07:05:20 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/15/ausflug-stralsund-ozeaneummeereskundemuseum/
+2018-06-18 07:05:19 CRAWLING SITE: 19 files remaining
+2018-06-18 07:05:19 SAVING URL: /wp-content/uploads/2014/12/rockbaby-150x150.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/rockbaby-150x150.png
+2018-06-18 07:05:19 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rockbaby-150x150.png
+2018-06-18 07:05:19 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rockbaby-150x150.png
+2018-06-18 07:05:19 SAVING URL: /wp-content/uploads/2014/12/rockbaby.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/rockbaby.png
+2018-06-18 07:05:19 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rockbaby.png
+2018-06-18 07:05:19 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/rockbaby.png
+2018-06-18 07:05:19 SAVING URL: /2014/12/12/hofkino-rock-baby-rock-it/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/12/hofkino-rock-baby-rock-it/index.html
+2018-06-18 07:05:19 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/12/hofkino-rock-baby-rock-it/
+2018-06-18 07:05:18 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/12/hofkino-rock-baby-rock-it/
+2018-06-18 07:05:17 CRAWLING SITE: 20 files remaining
+2018-06-18 07:05:17 SAVING URL: /wp-content/uploads/2014/12/free-150x150.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/free-150x150.png
+2018-06-18 07:05:17 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/free-150x150.png
+2018-06-18 07:05:17 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/free-150x150.png
+2018-06-18 07:05:17 SAVING URL: /wp-content/uploads/2014/12/free.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/free.png
+2018-06-18 07:05:17 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/free.png
+2018-06-18 07:05:17 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/free.png
+2018-06-18 07:05:17 SAVING URL: /2014/12/11/neujahr-faellt-aus-jungs-und-maedels-wir-tanzen/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/11/neujahr-faellt-aus-jungs-und-maedels-wir-tanzen/index.html
+2018-06-18 07:05:17 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/11/neujahr-faellt-aus-jungs-und-maedels-wir-tanzen/
+2018-06-18 07:05:16 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/11/neujahr-faellt-aus-jungs-und-maedels-wir-tanzen/
+2018-06-18 07:05:15 CRAWLING SITE: 21 files remaining
+2018-06-18 07:05:15 SAVING URL: /wp-content/uploads/2014/12/tattoo.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/tattoo.png
+2018-06-18 07:05:15 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/tattoo.png
+2018-06-18 07:05:15 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/tattoo.png
+2018-06-18 07:05:15 SAVING URL: /wp-content/uploads/2014/12/tattoo-430x326.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/tattoo-430x326.png
+2018-06-18 07:05:15 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/tattoo-430x326.png
+2018-06-18 07:05:14 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/tattoo-430x326.png
+2018-06-18 07:05:14 SAVING URL: /2014/12/11/748/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/11/748/index.html
+2018-06-18 07:05:14 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/11/748/
+2018-06-18 07:05:13 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/11/748/
+2018-06-18 07:05:13 CRAWLING SITE: 22 files remaining
+2018-06-18 07:05:13 SAVING URL: /2014/12/10/schoener-scheitern/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/10/schoener-scheitern/index.html
+2018-06-18 07:05:13 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/10/schoener-scheitern/
+2018-06-18 07:05:11 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/10/schoener-scheitern/
+2018-06-18 07:05:10 CRAWLING SITE: 23 files remaining
+2018-06-18 07:05:10 SAVING URL: /2014/12/10/hochprozentiges-von-wilhelm/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/10/hochprozentiges-von-wilhelm/index.html
+2018-06-18 07:05:10 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/10/hochprozentiges-von-wilhelm/
+2018-06-18 07:05:09 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/10/hochprozentiges-von-wilhelm/
+2018-06-18 07:05:08 CRAWLING SITE: 24 files remaining
+2018-06-18 07:05:08 SAVING URL: /wp-content/uploads/2014/12/VolkerBrot_1000-40-430x244.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/VolkerBrot_1000-40-430x244.jpg
+2018-06-18 07:05:08 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/VolkerBrot_1000-40-430x244.jpg
+2018-06-18 07:05:08 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/VolkerBrot_1000-40-430x244.jpg
+2018-06-18 07:05:08 SAVING URL: /wp-content/uploads/2014/12/VolkerBrot_1000-40.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/VolkerBrot_1000-40.jpg
+2018-06-18 07:05:08 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/VolkerBrot_1000-40.jpg
+2018-06-18 07:05:08 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/VolkerBrot_1000-40.jpg
+2018-06-18 07:05:08 SAVING URL: /2014/12/08/schmuggerower-hobbybrotbaeckerei/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/08/schmuggerower-hobbybrotbaeckerei/index.html
+2018-06-18 07:05:08 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/08/schmuggerower-hobbybrotbaeckerei/
+2018-06-18 07:05:07 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/08/schmuggerower-hobbybrotbaeckerei/
+2018-06-18 07:05:06 CRAWLING SITE: 25 files remaining
+2018-06-18 07:05:06 SAVING URL: /wp-content/uploads/2014/12/IMG_3500.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/IMG_3500.jpg
+2018-06-18 07:05:06 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/IMG_3500.jpg
+2018-06-18 07:05:05 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/IMG_3500.jpg
+2018-06-18 07:05:05 SAVING URL: /2014/12/07/liebe-gemeinde-die-an-und-abreise/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/07/liebe-gemeinde-die-an-und-abreise/index.html
+2018-06-18 07:05:05 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/07/liebe-gemeinde-die-an-und-abreise/
+2018-06-18 07:05:04 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/07/liebe-gemeinde-die-an-und-abreise/
+2018-06-18 07:04:57 CRAWLING SITE: 26 files remaining
+2018-06-18 07:04:57 SAVING URL: /2014/12/07/das-schloss-ist-fuer-alle-da/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/07/das-schloss-ist-fuer-alle-da/index.html
+2018-06-18 07:04:57 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/07/das-schloss-ist-fuer-alle-da/
+2018-06-18 07:04:56 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/07/das-schloss-ist-fuer-alle-da/
+2018-06-18 07:04:55 CRAWLING SITE: 27 files remaining
+2018-06-18 07:04:55 SAVING URL: /2014/12/04/neue-beitraege-per-mail/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/04/neue-beitraege-per-mail/index.html
+2018-06-18 07:04:55 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/04/neue-beitraege-per-mail/
+2018-06-18 07:04:54 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/04/neue-beitraege-per-mail/
+2018-06-18 07:04:53 CRAWLING SITE: 28 files remaining
+2018-06-18 07:04:53 SAVING URL: /2014/12/04/das-schloss-braucht-schluessel/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/04/das-schloss-braucht-schluessel/index.html
+2018-06-18 07:04:53 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/04/das-schloss-braucht-schluessel/
+2018-06-18 07:04:52 CRAWLING URL: https://www.silvesterimschloss.eu/2014/12/04/das-schloss-braucht-schluessel/
+2018-06-18 07:04:51 CRAWLING SITE: 29 files remaining
+2018-06-18 07:04:51 SAVING URL: /2014/11/25/kennenlerngluehweinbrausesause-am-sonntag/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/25/kennenlerngluehweinbrausesause-am-sonntag/index.html
+2018-06-18 07:04:51 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/25/kennenlerngluehweinbrausesause-am-sonntag/
+2018-06-18 07:04:50 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/25/kennenlerngluehweinbrausesause-am-sonntag/
+2018-06-18 07:04:50 CRAWLING SITE: 30 files remaining
+2018-06-18 07:04:50 SAVING URL: /2014/11/25/brot-und-gebaeck/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/25/brot-und-gebaeck/index.html
+2018-06-18 07:04:50 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/25/brot-und-gebaeck/
+2018-06-18 07:04:48 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/25/brot-und-gebaeck/
+2018-06-18 07:04:48 CRAWLING SITE: 31 files remaining
+2018-06-18 07:04:48 SAVING URL: /2014/11/25/wildbret/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/25/wildbret/index.html
+2018-06-18 07:04:48 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/25/wildbret/
+2018-06-18 07:04:47 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/25/wildbret/
+2018-06-18 07:04:45 CRAWLING SITE: 32 files remaining
+2018-06-18 07:04:45 SAVING URL: /2014/11/24/milcheierkaesebruni-gassi-gehen/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/24/milcheierkaesebruni-gassi-gehen/index.html
+2018-06-18 07:04:45 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/24/milcheierkaesebruni-gassi-gehen/
+2018-06-18 07:04:44 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/24/milcheierkaesebruni-gassi-gehen/
+2018-06-18 07:04:43 CRAWLING SITE: 33 files remaining
+2018-06-18 07:04:43 SAVING URL: /nextgen-attach_to_post/preview/id--600 to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/nextgen-attach_to_post/preview/id--600/index.html
+2018-06-18 07:04:43 CRAWLED FILE: https://www.silvesterimschloss.eu/nextgen-attach_to_post/preview/id--600
+2018-06-18 07:04:43 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/nextgen-attach_to_post/preview/id--600
+2018-06-18 07:04:43 SAVING URL: /2014/11/17/ein-blick-ins-schloss/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/17/ein-blick-ins-schloss/index.html
+2018-06-18 07:04:43 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/17/ein-blick-ins-schloss/
+2018-06-18 07:04:41 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/17/ein-blick-ins-schloss/
+2018-06-18 07:04:41 CRAWLING SITE: 34 files remaining
+2018-06-18 07:04:41 SAVING URL: /2014/11/03/3-die-angespannt-schlossbelegungssituation/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/03/3-die-angespannt-schlossbelegungssituation/index.html
+2018-06-18 07:04:41 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/03/3-die-angespannt-schlossbelegungssituation/
+2018-06-18 07:04:39 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/03/3-die-angespannt-schlossbelegungssituation/
+2018-06-18 07:04:39 CRAWLING SITE: 35 files remaining
+2018-06-18 07:04:39 SAVING URL: /2014/11/03/auf-gehts-silvester-2014/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/03/auf-gehts-silvester-2014/index.html
+2018-06-18 07:04:39 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/03/auf-gehts-silvester-2014/
+2018-06-18 07:04:38 CRAWLING URL: https://www.silvesterimschloss.eu/2014/11/03/auf-gehts-silvester-2014/
+2018-06-18 07:04:37 CRAWLING SITE: 36 files remaining
+2018-06-18 07:04:37 SAVING URL: /2010/12/13/386/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2010/12/13/386/index.html
+2018-06-18 07:04:37 CRAWLED FILE: https://www.silvesterimschloss.eu/2010/12/13/386/
+2018-06-18 07:04:36 CRAWLING URL: https://www.silvesterimschloss.eu/2010/12/13/386/
+2018-06-18 07:04:35 CRAWLING SITE: 37 files remaining
+2018-06-18 07:04:35 SAVING URL: /lage/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/lage/index.html
+2018-06-18 07:04:35 CRAWLED FILE: https://www.silvesterimschloss.eu/lage/
+2018-06-18 07:04:34 CRAWLING URL: https://www.silvesterimschloss.eu/lage/
+2018-06-18 07:04:33 CRAWLING SITE: 38 files remaining
+2018-06-18 07:04:33 SAVING URL: /wp-content/uploads/2009/08/anfahrt_luftschiff.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2009/08/anfahrt_luftschiff.png
+2018-06-18 07:04:33 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_luftschiff.png
+2018-06-18 07:04:33 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_luftschiff.png
+2018-06-18 07:04:33 SAVING URL: /wp-content/uploads/2009/08/anfahrt_boot.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2009/08/anfahrt_boot.png
+2018-06-18 07:04:33 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_boot.png
+2018-06-18 07:04:33 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_boot.png
+2018-06-18 07:04:33 SAVING URL: /wp-content/uploads/2009/08/anfahrt_bus.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2009/08/anfahrt_bus.png
+2018-06-18 07:04:33 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_bus.png
+2018-06-18 07:04:33 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_bus.png
+2018-06-18 07:04:33 SAVING URL: /wp-content/uploads/2009/08/anfahrt_auto.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2009/08/anfahrt_auto.png
+2018-06-18 07:04:33 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_auto.png
+2018-06-18 07:04:32 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_auto.png
+2018-06-18 07:04:32 SAVING URL: /wp-content/uploads/2009/08/anfahrt_bahn.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2009/08/anfahrt_bahn.png
+2018-06-18 07:04:32 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_bahn.png
+2018-06-18 07:04:32 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2009/08/anfahrt_bahn.png
+2018-06-18 07:04:32 SAVING URL: /wp-content/uploads/2014/12/IMG_3546.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/IMG_3546.jpg
+2018-06-18 07:04:32 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/IMG_3546.jpg
+2018-06-18 07:04:32 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/IMG_3546.jpg
+2018-06-18 07:04:32 SAVING URL: /anreise/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/anreise/index.html
+2018-06-18 07:04:32 CRAWLED FILE: https://www.silvesterimschloss.eu/anreise/
+2018-06-18 07:04:31 CRAWLING URL: https://www.silvesterimschloss.eu/anreise/
+2018-06-18 07:04:30 CRAWLING SITE: 39 files remaining
+2018-06-18 07:04:30 SAVING URL: /wp-content/uploads/2016/04/imprint.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2016/04/imprint.png
+2018-06-18 07:04:30 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2016/04/imprint.png
+2018-06-18 07:04:30 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2016/04/imprint.png
+2018-06-18 07:04:30 SAVING URL: /wp-json/oembed/1.0/embed to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-json/oembed/1.0/embed/index.json
+2018-06-18 07:04:30 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-json/oembed/1.0/embed
+2018-06-18 07:04:29 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-json/oembed/1.0/embed
+2018-06-18 07:04:29 SAVING URL: /kontakt/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/kontakt/index.html
+2018-06-18 07:04:29 CRAWLED FILE: https://www.silvesterimschloss.eu/kontakt/
+2018-06-18 07:04:28 CRAWLING URL: https://www.silvesterimschloss.eu/kontakt/
+2018-06-18 07:04:28 CRAWLING SITE: 40 files remaining
+2018-06-18 07:04:28 SAVING URL: /wp-content/themes/dilectio/images/FooterIco.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/FooterIco.gif
+2018-06-18 07:04:28 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/FooterIco.gif
+2018-06-18 07:04:27 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/FooterIco.gif
+2018-06-18 07:04:27 SAVING URL: /wp-content/themes/dilectio/images/FlickrH3.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/FlickrH3.gif
+2018-06-18 07:04:27 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/FlickrH3.gif
+2018-06-18 07:04:27 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/FlickrH3.gif
+2018-06-18 07:04:27 SAVING URL: /wp-content/themes/dilectio/./images/mright.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/./images/mright.gif
+2018-06-18 07:04:27 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/mright.gif
+2018-06-18 07:04:27 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/mright.gif
+2018-06-18 07:04:27 SAVING URL: /wp-content/themes/dilectio/./images/mleft.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/./images/mleft.gif
+2018-06-18 07:04:27 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/mleft.gif
+2018-06-18 07:04:26 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/mleft.gif
+2018-06-18 07:04:26 SAVING URL: /wp-content/themes/dilectio/images/RecentBkg.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/RecentBkg.gif
+2018-06-18 07:04:26 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/RecentBkg.gif
+2018-06-18 07:04:26 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/RecentBkg.gif
+2018-06-18 07:04:26 SAVING URL: /wp-content/themes/dilectio/images/AboutBkg.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/AboutBkg.gif
+2018-06-18 07:04:26 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/AboutBkg.gif
+2018-06-18 07:04:26 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/AboutBkg.gif
+2018-06-18 07:04:26 SAVING URL: /wp-content/themes/dilectio/images/SynIco.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/SynIco.png
+2018-06-18 07:04:26 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SynIco.png
+2018-06-18 07:04:26 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SynIco.png
+2018-06-18 07:04:26 SAVING URL: /wp-content/themes/dilectio/./images/SearchButton.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/./images/SearchButton.gif
+2018-06-18 07:04:26 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/SearchButton.gif
+2018-06-18 07:04:25 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/SearchButton.gif
+2018-06-18 07:04:25 SAVING URL: /wp-content/themes/dilectio/images/SearchForm.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/SearchForm.gif
+2018-06-18 07:04:25 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SearchForm.gif
+2018-06-18 07:04:25 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SearchForm.gif
+2018-06-18 07:04:25 SAVING URL: /wp-content/themes/dilectio/images/Search.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/Search.gif
+2018-06-18 07:04:25 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/Search.gif
+2018-06-18 07:04:25 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/Search.gif
+2018-06-18 07:04:25 SAVING URL: /wp-content/themes/dilectio/images/SRL-widgetflickrbkg.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/SRL-widgetflickrbkg.gif
+2018-06-18 07:04:25 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SRL-widgetflickrbkg.gif
+2018-06-18 07:04:25 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SRL-widgetflickrbkg.gif
+2018-06-18 07:04:25 SAVING URL: /wp-content/themes/dilectio/images/SRL-widgetbkg.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/SRL-widgetbkg.gif
+2018-06-18 07:04:25 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SRL-widgetbkg.gif
+2018-06-18 07:04:25 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SRL-widgetbkg.gif
+2018-06-18 07:04:25 SAVING URL: /wp-content/themes/dilectio/images/SubmitComment.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/SubmitComment.png
+2018-06-18 07:04:25 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SubmitComment.png
+2018-06-18 07:04:24 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/SubmitComment.png
+2018-06-18 07:04:24 SAVING URL: /wp-content/themes/dilectio/images/FooterEmail.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/FooterEmail.png
+2018-06-18 07:04:24 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/FooterEmail.png
+2018-06-18 07:04:24 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/FooterEmail.png
+2018-06-18 07:04:24 SAVING URL: /wp-content/themes/dilectio/images/PostDotted.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/PostDotted.gif
+2018-06-18 07:04:24 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostDotted.gif
+2018-06-18 07:04:23 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostDotted.gif
+2018-06-18 07:04:23 SAVING URL: /wp-content/themes/dilectio/images/TrackListIco.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/TrackListIco.gif
+2018-06-18 07:04:23 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/TrackListIco.gif
+2018-06-18 07:04:23 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/TrackListIco.gif
+2018-06-18 07:04:23 SAVING URL: /wp-content/themes/dilectio/images/TrackListTop.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/TrackListTop.gif
+2018-06-18 07:04:23 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/TrackListTop.gif
+2018-06-18 07:04:22 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/TrackListTop.gif
+2018-06-18 07:04:22 SAVING URL: /wp-content/themes/dilectio/images/TrackListBottom.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/TrackListBottom.gif
+2018-06-18 07:04:22 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/TrackListBottom.gif
+2018-06-18 07:04:22 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/TrackListBottom.gif
+2018-06-18 07:04:22 SAVING URL: /wp-content/themes/dilectio/images/NoteTrackBack.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/NoteTrackBack.png
+2018-06-18 07:04:22 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/NoteTrackBack.png
+2018-06-18 07:04:21 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/NoteTrackBack.png
+2018-06-18 07:04:21 SAVING URL: /wp-content/themes/dilectio/images/NoteRss.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/NoteRss.png
+2018-06-18 07:04:21 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/NoteRss.png
+2018-06-18 07:04:21 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/NoteRss.png
+2018-06-18 07:04:21 SAVING URL: /wp-content/themes/dilectio/images/PostCom.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/PostCom.png
+2018-06-18 07:04:21 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostCom.png
+2018-06-18 07:04:21 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostCom.png
+2018-06-18 07:04:21 SAVING URL: /wp-content/themes/dilectio/images/PostComBkg.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/PostComBkg.gif
+2018-06-18 07:04:21 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostComBkg.gif
+2018-06-18 07:04:20 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostComBkg.gif
+2018-06-18 07:04:20 SAVING URL: /wp-content/themes/dilectio/images/PostContentLiIco.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/PostContentLiIco.png
+2018-06-18 07:04:20 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostContentLiIco.png
+2018-06-18 07:04:20 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostContentLiIco.png
+2018-06-18 07:04:20 SAVING URL: /wp-content/themes/dilectio/images/PostTimeBkg.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/PostTimeBkg.gif
+2018-06-18 07:04:20 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostTimeBkg.gif
+2018-06-18 07:04:20 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/PostTimeBkg.gif
+2018-06-18 07:04:20 SAVING URL: /wp-content/themes/dilectio/./images/menuright.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/./images/menuright.gif
+2018-06-18 07:04:20 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/menuright.gif
+2018-06-18 07:04:20 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/menuright.gif
+2018-06-18 07:04:20 SAVING URL: /wp-content/themes/dilectio/./images/menuleft.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/./images/menuleft.gif
+2018-06-18 07:04:20 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/menuleft.gif
+2018-06-18 07:04:20 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/./images/menuleft.gif
+2018-06-18 07:04:20 SAVING URL: /wp-content/themes/dilectio/images/bp.gif to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/bp.gif
+2018-06-18 07:04:20 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/bp.gif
+2018-06-18 07:04:19 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/bp.gif
+2018-06-18 07:04:19 SAVING URL: /wp-content/themes/dilectio/style.css to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/style.css
+2018-06-18 07:04:19 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/style.css
+2018-06-18 07:04:19 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/style.css
+2018-06-18 07:04:18 CRAWLING SITE: 41 files remaining
+2018-06-18 07:04:18 SAVING URL: /wp-content/themes/dilectio/favicon.ico to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/favicon.ico
+2018-06-18 07:04:18 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/favicon.ico
+2018-06-18 07:04:18 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/favicon.ico
+2018-06-18 07:04:17 CRAWLING SITE: 42 files remaining
+2018-06-18 07:04:17 SAVING URL: /wp-content/themes/dilectio/screenshot.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/screenshot.png
+2018-06-18 07:04:17 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/screenshot.png
+2018-06-18 07:04:17 CRAWLING URL: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/screenshot.png
+2018-06-18 07:04:16 CRAWLING SITE: 43 files remaining
+2018-06-18 07:04:16 SAVING URL: /wp-content/plugins/wp-polls/polls-js.js to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/plugins/wp-polls/polls-js.js
+2018-06-18 07:04:16 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-polls/polls-js.js
+2018-06-18 07:04:16 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-polls/polls-js.js
+2018-06-18 07:04:16 SAVING URL: /wp-login.php to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-login.php
+2018-06-18 07:04:16 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-login.php
+2018-06-18 07:04:15 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-login.php
+2018-06-18 07:04:15 SAVING URL: /2010/12/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2010/12/index.html
+2018-06-18 07:04:15 CRAWLED FILE: https://www.silvesterimschloss.eu/2010/12/
+2018-06-18 07:04:15 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2010/12/
+2018-06-18 07:04:15 SAVING URL: /2014/11/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/11/index.html
+2018-06-18 07:04:15 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/11/
+2018-06-18 07:04:14 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/11/
+2018-06-18 07:04:14 SAVING URL: /2014/12/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/index.html
+2018-06-18 07:04:14 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/
+2018-06-18 07:04:13 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/
+2018-06-18 07:04:13 SAVING URL: /2015/01/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/index.html
+2018-06-18 07:04:13 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/
+2018-06-18 07:04:13 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2015/01/
+2018-06-18 07:04:13 SAVING URL: /wp-content/themes/dilectio/images/ButtonTransparent.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/themes/dilectio/images/ButtonTransparent.png
+2018-06-18 07:04:13 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/ButtonTransparent.png
+2018-06-18 07:04:13 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/themes/dilectio/images/ButtonTransparent.png
+2018-06-18 07:04:13 SAVING URL: /page/4/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/page/4/index.html
+2018-06-18 07:04:13 CRAWLED FILE: https://www.silvesterimschloss.eu/page/4/
+2018-06-18 07:04:12 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/page/4/
+2018-06-18 07:04:12 SAVING URL: /page/3/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/page/3/index.html
+2018-06-18 07:04:12 CRAWLED FILE: https://www.silvesterimschloss.eu/page/3/
+2018-06-18 07:04:11 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/page/3/
+2018-06-18 07:04:11 SAVING URL: /page/2/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/page/2/index.html
+2018-06-18 07:04:11 CRAWLED FILE: https://www.silvesterimschloss.eu/page/2/
+2018-06-18 07:04:11 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/page/2/
+2018-06-18 07:04:11 SAVING URL: /2014/12/19/kuechenwalzer/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/19/kuechenwalzer/trackback/index.html
+2018-06-18 07:04:11 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/19/kuechenwalzer/trackback/
+2018-06-18 07:04:10 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/19/kuechenwalzer/trackback/
+2018-06-18 07:04:10 SAVING URL: /wp-content/uploads/2014/12/cooking-150x150.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/cooking-150x150.png
+2018-06-18 07:04:10 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cooking-150x150.png
+2018-06-18 07:04:10 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cooking-150x150.png
+2018-06-18 07:04:10 SAVING URL: /wp-content/uploads/2014/12/cooking.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/cooking.png
+2018-06-18 07:04:10 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cooking.png
+2018-06-18 07:04:09 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/cooking.png
+2018-06-18 07:04:09 SAVING URL: /2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/trackback/index.html
+2018-06-18 07:04:09 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/trackback/
+2018-06-18 07:04:08 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/20/auf-der-suche-nach-artawasd-peleschjan-ein-abend-mit-text-und-film/trackback/
+2018-06-18 07:04:08 SAVING URL: /2014/12/20/lichtbildarena-indien/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/20/lichtbildarena-indien/trackback/index.html
+2018-06-18 07:04:08 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/20/lichtbildarena-indien/trackback/
+2018-06-18 07:04:07 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/20/lichtbildarena-indien/trackback/
+2018-06-18 07:04:07 SAVING URL: /wp-content/uploads/2014/12/Windows-Lecture-22-von-22-430x287.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Windows-Lecture-22-von-22-430x287.jpg
+2018-06-18 07:04:07 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Windows-Lecture-22-von-22-430x287.jpg
+2018-06-18 07:04:07 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Windows-Lecture-22-von-22-430x287.jpg
+2018-06-18 07:04:07 SAVING URL: /wp-content/uploads/2014/12/Windows-Lecture-22-von-22.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Windows-Lecture-22-von-22.jpg
+2018-06-18 07:04:07 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Windows-Lecture-22-von-22.jpg
+2018-06-18 07:04:07 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Windows-Lecture-22-von-22.jpg
+2018-06-18 07:04:07 SAVING URL: /2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/trackback/index.html
+2018-06-18 07:04:07 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/trackback/
+2018-06-18 07:04:05 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/21/stichtag-31-dezember-holen-wir-den-glamour-ins-haus/trackback/
+2018-06-18 07:04:05 SAVING URL: /wp-content/uploads/2014/12/Rockabilly-430x199.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Rockabilly-430x199.jpg
+2018-06-18 07:04:05 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Rockabilly-430x199.jpg
+2018-06-18 07:04:05 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Rockabilly-430x199.jpg
+2018-06-18 07:04:05 SAVING URL: /wp-content/uploads/2014/12/Rockabilly.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Rockabilly.jpg
+2018-06-18 07:04:05 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Rockabilly.jpg
+2018-06-18 07:04:05 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Rockabilly.jpg
+2018-06-18 07:04:05 SAVING URL: /2014/12/23/persoenliche-mit-bringliste-fuers-schloss/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/23/persoenliche-mit-bringliste-fuers-schloss/trackback/index.html
+2018-06-18 07:04:05 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/23/persoenliche-mit-bringliste-fuers-schloss/trackback/
+2018-06-18 07:04:04 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/23/persoenliche-mit-bringliste-fuers-schloss/trackback/
+2018-06-18 07:04:04 SAVING URL: /wp-content/uploads/2014/12/Folie1-323x430.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Folie1-323x430.jpg
+2018-06-18 07:04:04 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Folie1-323x430.jpg
+2018-06-18 07:04:04 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Folie1-323x430.jpg
+2018-06-18 07:04:04 SAVING URL: /wp-content/uploads/2014/12/Folie1-300x400.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Folie1-300x400.jpg
+2018-06-18 07:04:04 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Folie1-300x400.jpg
+2018-06-18 07:04:03 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Folie1-300x400.jpg
+2018-06-18 07:04:03 SAVING URL: /wp-content/uploads/2014/12/Folie1.jpg to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Folie1.jpg
+2018-06-18 07:04:03 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Folie1.jpg
+2018-06-18 07:04:03 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Folie1.jpg
+2018-06-18 07:04:03 SAVING URL: /2014/12/23/infos-zur-letzten-minute/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/23/infos-zur-letzten-minute/trackback/index.html
+2018-06-18 07:04:03 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/23/infos-zur-letzten-minute/trackback/
+2018-06-18 07:04:02 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/23/infos-zur-letzten-minute/trackback/
+2018-06-18 07:04:02 SAVING URL: /wp-content/uploads/2014/12/kaetzchen-150x150.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/kaetzchen-150x150.png
+2018-06-18 07:04:02 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/kaetzchen-150x150.png
+2018-06-18 07:04:02 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/kaetzchen-150x150.png
+2018-06-18 07:04:02 SAVING URL: /wp-content/uploads/2014/12/kaetzchen.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/kaetzchen.png
+2018-06-18 07:04:02 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/kaetzchen.png
+2018-06-18 07:04:02 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/kaetzchen.png
+2018-06-18 07:04:02 SAVING URL: /2014/12/26/kultur-am-hofe-das-programm/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2014/12/26/kultur-am-hofe-das-programm/trackback/index.html
+2018-06-18 07:04:02 CRAWLED FILE: https://www.silvesterimschloss.eu/2014/12/26/kultur-am-hofe-das-programm/trackback/
+2018-06-18 07:04:01 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2014/12/26/kultur-am-hofe-das-programm/trackback/
+2018-06-18 07:04:01 SAVING URL: /wp-content/uploads/2014/12/Kulturprogramm-430x304.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Kulturprogramm-430x304.png
+2018-06-18 07:04:01 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Kulturprogramm-430x304.png
+2018-06-18 07:04:00 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Kulturprogramm-430x304.png
+2018-06-18 07:04:00 SAVING URL: /wp-content/uploads/2014/12/Kulturprogramm.png to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/uploads/2014/12/Kulturprogramm.png
+2018-06-18 07:04:00 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Kulturprogramm.png
+2018-06-18 07:04:00 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/uploads/2014/12/Kulturprogramm.png
+2018-06-18 07:04:00 SAVING URL: /2015/01/18/hobbybrotbaeckerei-nachtrag/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/18/hobbybrotbaeckerei-nachtrag/trackback/index.html
+2018-06-18 07:04:00 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/18/hobbybrotbaeckerei-nachtrag/trackback/
+2018-06-18 07:03:59 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2015/01/18/hobbybrotbaeckerei-nachtrag/trackback/
+2018-06-18 07:03:59 SAVING URL: /2015/01/22/lichtbilder-vom-feste/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/22/lichtbilder-vom-feste/trackback/index.html
+2018-06-18 07:03:59 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/22/lichtbilder-vom-feste/trackback/
+2018-06-18 07:03:58 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2015/01/22/lichtbilder-vom-feste/trackback/
+2018-06-18 07:03:58 SAVING URL: /2015/01/24/lichtbilder-zum-feste-nachtrag/trackback/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/2015/01/24/lichtbilder-zum-feste-nachtrag/trackback/index.html
+2018-06-18 07:03:58 CRAWLED FILE: https://www.silvesterimschloss.eu/2015/01/24/lichtbilder-zum-feste-nachtrag/trackback/
+2018-06-18 07:03:57 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/2015/01/24/lichtbilder-zum-feste-nachtrag/trackback/
+2018-06-18 07:03:57 SAVING URL: /category/das-schloss/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/category/das-schloss/index.html
+2018-06-18 07:03:57 CRAWLED FILE: https://www.silvesterimschloss.eu/category/das-schloss/
+2018-06-18 07:03:56 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/category/das-schloss/
+2018-06-18 07:03:56 SAVING URL: /wp-content/plugins/lightbox-2/Themes/Black/lightbox.css to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/plugins/lightbox-2/Themes/Black/lightbox.css
+2018-06-18 07:03:56 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/plugins/lightbox-2/Themes/Black/lightbox.css
+2018-06-18 07:03:56 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/plugins/lightbox-2/Themes/Black/lightbox.css
+2018-06-18 07:03:56 SAVING URL: /wp-json/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-json/index.json
+2018-06-18 07:03:56 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-json/
+2018-06-18 07:03:55 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-json/
+2018-06-18 07:03:55 SAVING URL: /wp-includes/js/jquery/jquery-migrate.min.js to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-includes/js/jquery/jquery-migrate.min.js
+2018-06-18 07:03:55 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-includes/js/jquery/jquery-migrate.min.js
+2018-06-18 07:03:55 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-includes/js/jquery/jquery-migrate.min.js
+2018-06-18 07:03:55 SAVING URL: /wp-includes/js/jquery/jquery.js to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-includes/js/jquery/jquery.js
+2018-06-18 07:03:55 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-includes/js/jquery/jquery.js
+2018-06-18 07:03:55 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-includes/js/jquery/jquery.js
+2018-06-18 07:03:55 SAVING URL: /wp-content/plugins/lightbox-2/lightbox-resize.js to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/plugins/lightbox-2/lightbox-resize.js
+2018-06-18 07:03:55 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/plugins/lightbox-2/lightbox-resize.js
+2018-06-18 07:03:55 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/plugins/lightbox-2/lightbox-resize.js
+2018-06-18 07:03:55 SAVING URL: /wp-content/plugins/wp-pagenavi/pagenavi-css.css to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/plugins/wp-pagenavi/pagenavi-css.css
+2018-06-18 07:03:55 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-pagenavi/pagenavi-css.css
+2018-06-18 07:03:55 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-pagenavi/pagenavi-css.css
+2018-06-18 07:03:55 SAVING URL: /wp-content/plugins/wp-polls/polls-css.css to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/wp-content/plugins/wp-polls/polls-css.css
+2018-06-18 07:03:55 CRAWLED FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-polls/polls-css.css
+2018-06-18 07:03:54 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/wp-content/plugins/wp-polls/polls-css.css
+2018-06-18 07:03:54 SAVING URL: /xmlrpc.php to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/xmlrpc.php
+2018-06-18 07:03:54 CRAWLED FILE: https://www.silvesterimschloss.eu/xmlrpc.php
+2018-06-18 07:03:54 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/xmlrpc.php
+2018-06-18 07:03:54 SAVING URL: /feed/atom/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/feed/atom/index.atom
+2018-06-18 07:03:54 CRAWLED FILE: https://www.silvesterimschloss.eu/feed/atom/
+2018-06-18 07:03:53 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/feed/atom/
+2018-06-18 07:03:53 SAVING URL: /feed/rss/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/feed/rss/index.rss
+2018-06-18 07:03:53 CRAWLED FILE: https://www.silvesterimschloss.eu/feed/rss/
+2018-06-18 07:03:52 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/feed/rss/
+2018-06-18 07:03:52 SAVING URL: /feed/ to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/feed/index.rss
+2018-06-18 07:03:52 CRAWLED FILE: https://www.silvesterimschloss.eu/feed/
+2018-06-18 07:03:51 DISCOVERED NEW FILE: https://www.silvesterimschloss.eu/feed/
+2018-06-18 07:03:51 SAVING URL: / to new path/var/www/virtual/bali/silvesterimschloss.eu/wp-content/uploads/wp-static-html-output-1-1529305429-hendryk/index.html
+2018-06-18 07:03:51 CRAWLED FILE: https://www.silvesterimschloss.eu/
+2018-06-18 07:03:50 CRAWLING URL: https://www.silvesterimschloss.eu/
+2018-06-18 07:03:49 Initial list of files to include is prepared. Now crawling these to extract more URLs.
+2018-06-18 07:03:49 INITIAL CRAWL LIST CONTAINS 44 FILES
+2018-06-18 07:03:49 NOT INCLUDING ALL FILES FROM UPLOADS DIR
+2018-06-18 07:03:49 STARTING EXPORT: STATIC EXPORT URL https://www.silvesterimschloss.eu
+2018-06-18 07:03:49 STARTING EXPORT: VIA CLI? 
+2018-06-18 07:03:49 STARTING EXPORT: WP ADDRESS https://www.silvesterimschloss.eu
+2018-06-18 07:03:49 STARTING EXPORT: WP URL https://www.silvesterimschloss.eu
+2018-06-18 07:03:49 STARTING EXPORT: WP VERSION 4.9.6
+2018-06-18 07:03:49 STARTING EXPORT: OS VERSION Linux achernar.uberspace.de 2.6.32-696.18.7.el6.x86_64 #1 SMP Thu Jan 4 17:31:22 UTC 2018 x86_64
+2018-06-18 07:03:49 STARTING EXPORT: PHP MAX EXECUTION TIME 0
+2018-06-18 07:03:49 STARTING EXPORT: PHP VERSION 7.1.16
+2018-06-18 07:03:49 STARTING EXPORT
